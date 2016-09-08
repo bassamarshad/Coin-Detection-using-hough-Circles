@@ -3,13 +3,13 @@
 
 #Results
 
-![Alt text](/CoinsHoughCircles/result1.jpg?raw=true "Result 1")
+![Alt text](/CoinsHoughCircles/CoinsHoughCircles/result1.jpg?raw=true "Result 1")
 
-![Alt text](/CoinsHoughCircles/result2.jpg?raw=true "Result 2")
+![Alt text](/CoinsHoughCircles/CoinsHoughCircles/result2.jpg?raw=true "Result 2")
 
-![Alt text](/CoinsHoughCircles/result3.jpg?raw=true "Result 3")
+![Alt text](/CoinsHoughCircles/CoinsHoughCircles/result3.jpg?raw=true "Result 3")
 
-![Alt text](/CoinsHoughCircles/result4.jpg?raw=true "Result 4")
+![Alt text](/CoinsHoughCircles/CoinsHoughCircles/result4.jpg?raw=true "Result 4")
 
 Originally assigned problem ( Computer Vision course - CSCI-6368 -- Spring 2016 -- UTRGV )
 
